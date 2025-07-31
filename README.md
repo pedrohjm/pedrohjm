@@ -45,8 +45,8 @@ Sou estudante de Engenharia da Computação com grande interesse em desenvolvime
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Typescript" 
+    title="Typescript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
